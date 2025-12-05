@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "万歳千唱",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-05T10:34:02.756285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "万歳千唱",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_万歳千唱_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "万歳千唱",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_万歳千唱_RADWIMPS.txt"
+    }
+  ]
+}
